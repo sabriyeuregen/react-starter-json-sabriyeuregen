@@ -1,0 +1,16 @@
+.card{
+    margin: 20px;
+    padding: 20px;
+  
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  
+    width: calc(80% / 2);
+    min-height: 28px;
+  
+    background-color: rgb(151, 139, 219);
+    border-radius: 8px;
+
+}
